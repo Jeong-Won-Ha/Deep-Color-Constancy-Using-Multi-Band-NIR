@@ -5,7 +5,8 @@ The proposed method exploits the relationship between RGB and NIR in illuminant 
 The proposed network consists of two subnets that learn local illuminant and its confidence weight respectively.
 
 ## How to use
-You can train our network by running main.py
+You can train our network by running main.py.
+
 We also provide samples of our dataset.
 
 ## Contact
