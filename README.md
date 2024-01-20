@@ -15,11 +15,19 @@ If you have any questions, please email to jungwon9339@gmail.com
 ## License
 You can use this code for only research purpose.
 If you use this code or paper, please cite [this paper](https://ieeexplore.ieee.org/abstract/document/9980094?casa_token=XY_SNkH7JUQAAAAA:568NijTemRQHlOtIdj2sfzgJvG08e7uR9UeFMXtxlx6XtLXTjy4VNgTaAUZwSMFAw77tLO6IMg8).
+
 @inproceedings{ha2022deep,
+
   title={Deep Color Constancy Using Multi-Band NIR},
+  
   author={Ha, Jeong-Won and Han, Dong-Keun and Park, Min-Je and Kim, Jong-Ok},
+  
   booktitle={2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
+  
   pages={779--783},
+  
   year={2022},
+  
   organization={IEEE}
+  
 }
